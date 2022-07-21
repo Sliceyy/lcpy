@@ -15,6 +15,7 @@ pyinstaller -F lcpy.py
 
 usage: lcx_py_v0.2 [-h] [-m] [-p1] [-p2] [-p] [-SP] [-RP]
 
+```
 optional arguments:
   -h, --help            show this help message and exit
   -m , --listen_method 
@@ -28,6 +29,7 @@ optional arguments:
                         The targetIP:Port
   -RP , --remoteAddressPort 
                         The RemoteIP:Port
+```
 
 ## 示例
 

@@ -35,11 +35,11 @@ optional arguments:
 ## 示例
 
 - 监听模式
-  -m listen -p1 9001 -p2 9002
+  ./lcpy -m listen -p1 9001 -p2 9002
 
 - tran模式
   ./lcpy -m tran -p 8001 -RP ip:22
 
 - slave模式
-  -m slave -SP ip1:22 -RP ip2:9001
+  ./lcpy -m slave -SP ip1:22 -RP ip2:9001
 

@@ -34,7 +34,7 @@ optional arguments:
 
 ## 示例
 
-- 监听模式
+- listen模式
   ./lcpy -m listen -p1 9001 -p2 9002
 
 - tran模式

@@ -14,7 +14,7 @@ pyinstaller -F lcpy.py
 
 ## 用法
 
-usage: lcx_py_v0.2 [-h] [-m] [-p1] [-p2] [-p] [-SP] [-RP]
+usage: lcpy [-h] [-m] [-p1] [-p2] [-p] [-SP] [-RP]
 
 ```
 optional arguments:

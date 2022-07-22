@@ -38,8 +38,8 @@ optional arguments:
   -m listen -p1 9001 -p2 9002
 
 - tran模式
-  ./lcpy -m tran -p 8001 -RP 10.8.58.239:22
+  ./lcpy -m tran -p 8001 -RP ip:22
 
 - slave模式
-  -m slave -SP 10.8.58.239:22 -RP 10.8.58.243:9001
+  -m slave -SP ip1:22 -RP ip2:9001
 
